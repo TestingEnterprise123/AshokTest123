@@ -1,0 +1,51 @@
+1)      Login to payroll Link. https://payroll.persistent.co.in/myascentpayroll/default.htm
+Request Id: Req-37374
+Machine: HJNZL000488
+Project Name: IT_Procurement
+Duration: 15 days
+Expiry Date: 31 Dec 2021
+Business Justification: Based on EIS management directions, We are granting admin rights for 15 days to each new joinee.
+
+http://www.speedtest.bsnl.co.in/
+
+
+Download the Links for Software
+===============================
+https://www.openlogic.com/openjdk-downloads
+http://www.digitizedpost.com/spring-tool-suite-ide-download-and-install/
+https://www.oracle.com/in/database/12c-database/
+
+Service desk link
+https://servicedesk.persistent.com/
+
+All APPS
+---------------
+https://persistentsystems.sharepoint.com/sites/Pi/HR/SitePages/CARE.aspx
+
+fusion
+========
+https://ehec.fa.em2.oraclecloud.com/fscmUI/faces/FuseWelcome?_adf.ctrl-state=ptyfunkg9_5&fnd=%3B%3B%3B%3Bfalse%3B256%3B%3B%3B&_afrLoop=22073753502513467
+
+Undimy
+-----
+
+https://degreed.com/dguserwz75321/dashboard
+
+https://persistentrise.udemy.com/course/java-8-new-features-in-simple-way/learn/lecture/8690356#notes
+
+https://degreed.com/learning/search?term=Java%208
+
+
+https://persistentrise.udemy.com/course/modern-java-learn-java-8-features-by-coding-it/learn/lecture/10362446#overview
+
+
+
+https://ehec.fa.em2.oraclecloud.com/hcmUI/faces/FndOverview?macKey=PZRz7DSI6qhNHnBS&_afrLoop=13655095888969163&_afrWindowMode=0&_afrWindowId=null&_adf.ctrl-state=15rnx1in73_16&_afrFS=16&_afrMT=screen&_afrMFW=1280&_afrMFH=601&_afrMFDW=1280&_afrMFDH=720&_afrMFC=8&_afrMFCI=0&_afrMFM=0&_afrMFR=144&_afrMFG=0&_afrMFS=0&_afrMFO=0
+
+
+https://persistentrise.udemy.com/course/java-debugging-with-intellij-idea/learn/lecture/17528004#overview
+
+================KT==========================
+
+https://persistentsystems.sharepoint.com/sites/AmazonConnectorsTeam/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x0120000A71CC221AB8064C9C2D8148C7377733&id=%2Fsites%2FAmazonConnectorsTeam%2FShared%20Documents%2FKendra%20Connectors%20Development%2FKTs%2FAmazon%20Kendra%20Connector%20%2D%20QA%20KT%2D20220221%5F110456%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2FAmazonConnectorsTeam%2FShared%20Documents%2FKendra%20Connectors%20Development%2FKTs
+
